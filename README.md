@@ -14,7 +14,7 @@
   * Day 2 (18th June 2020) : AI/ML
   * Day 3 (19th June 2020) : Serverless, DevOps and more
 
-# Microsoft Azure Learning Resources ☁️
+## Microsoft Azure Learning Resources ☁️
 
 ### Category: AI & ML
 Check out some good resources about Kubernetes below:
@@ -40,3 +40,4 @@ Check out some good resources about Kubernetes below:
 Download the 399-page serverless computing free e-book and get access to dozens of step-by-step recipes for quickly building serverless apps
 - [Azure Serverless Computing Cookbook, Second Edition](https://azure.microsoft.com/en-us/resources/azure-serverless-computing-cookbook/?wt.mc_id=AID3011244_QSG_EML_428990)
 
+🏷️ **Check out our official website for more details about [Cloud Community Days](https://ccdays.konfhub.com/)
