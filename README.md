@@ -14,7 +14,7 @@
   * Day 2 (18th June 2020) : AI/ML
   * Day 3 (19th June 2020) : Serverless, DevOps and more
 
-## Microsoft Azure Learning Resources ☁️
+## Learning Resources ☁️
 
 ### Category: AI & ML
 Check out some good resources about Kubernetes below:
