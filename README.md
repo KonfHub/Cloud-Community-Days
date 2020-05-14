@@ -7,7 +7,7 @@
 
 ## Announcement 📢
 
-> **[Cloud Community Days](https://ccdays.konfhub.com/)** Cloud Community Days is a 3-day, online, developer-focused, single track conference on modern cloud technologies focusing on Containers, Kubernetes, Artificial Intelligence & Machine Learning, DevOps, Serverless, and more. This is a free conference and we are welcoming all the interested developers to join us and attend the conference.
+> **[Cloud Community Days](https://ccdays.konfhub.com/)** is a 3-day, online, developer-focused, single track conference on modern cloud technologies focusing on Containers, Kubernetes, Artificial Intelligence & Machine Learning, DevOps, Serverless, and more. This is a free conference and we are welcoming all the interested developers to join us and attend the conference.
 
 * Day-wise themes of the conference are as given below :
   * Day 1 (17th June 2020) : Cloud Native
