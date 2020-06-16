@@ -41,4 +41,26 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 - [Azure Serverless Computing Cookbook, Second Edition](https://azure.microsoft.com/en-us/resources/azure-serverless-computing-cookbook/?wt.mc_id=AID3011244_QSG_EML_428990)
 - [Knative Cookbook](https://dn.dev/knative-cookbook)
 
+## Speaker Slides
+
+### Day 1 (Cloud Native)
+
+1. **"4K Streaming in Cloud with Kubernetes, Knative, Kafka, Kamel"** by _Kamesh Sampath, Red Hat_
+
+2. **"Running Elasticsearch {Stack} on Kubernetes"** by _Aravind Putrevu, Elastic_
+
+3. **"Tour of Dapr: a runtime for microservices development"** by _Abhishek Gupta, Microsoft_
+
+4. **"Life is what YOU make it!"** by _Sandeep Kanabar, NortonLifeLock_
+
+5. **"Raspberry Pi Air quality monitor and Azure IoT Central"** by _Dave Glover, Microsoft_
+
+6. **"My experiences building CloudSkew (a browser-based, real-time diagram editor on the cloud)"** by _Mithun Shanbhag, Skewed Ventures_
+
+7. **"The World of Containers with - Podman, Buildah, Skopeo"** by _Seema Saharan, Mentor and Open Source Contributor_
+
+8. **"Together in COVID-19: Health of India"** by _Aditya Raman, KonfHub_
+
+9. **"Containerize Microservices with Service Fabric"** by _Hamida Rebai, Revenu Quebec_
+
 🏷️ **Check out our official website for more details about [Cloud Community Days](https://ccdays.konfhub.com/)**
