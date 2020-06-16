@@ -63,4 +63,8 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 9. **"Containerize Microservices with Service Fabric"** by _Hamida Rebai, Revenu Quebec_
 
+### Day 2 (AI & ML)
+
+### Day 3 (DevOps & More)
+
 🏷️ **Check out our official website for more details about [Cloud Community Days](https://ccdays.konfhub.com/)**
