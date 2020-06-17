@@ -53,7 +53,7 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 4. ["Life is what YOU make it!"](https://www.slideshare.net/CodeOps/life-is-what-you-make-it-sandeep-kanabar-ccdays-presentation) by _Sandeep Kanabar, NortonLifeLock_
 
-5. **"Raspberry Pi Air quality monitor and Azure IoT Central"** by _Dave Glover, Microsoft_
+5. ["Raspberry Pi Air quality monitor and Azure IoT Central"](https://github.com/gloveboxes/Raspberry-Pi-Python-Environment-Monitor-with-the-Pimoroni-Enviro-Air-Quality-PMS5003-Sensor) by _Dave Glover, Microsoft_
 
 6. **"My experiences building CloudSkew (a browser-based, real-time diagram editor on the cloud)"** by _Mithun Shanbhag, Skewed Ventures_ (no slides) [CloudSkew website](https://www.cloudskew.com/) and [Architecture details](https://www.cloudskew.com/about/cloudskew-architecture.html)
 
