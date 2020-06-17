@@ -65,6 +65,8 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 ### Day 2 (AI & ML)
 
+7. ["How open source contribution helps in AI"](https://www.slideshare.net/CodeOps/how-open-source-helps-in-ai-ccdays-chinmaye) by _Chinmaye Jain, Witsy limited_
+
 ### Day 3 (DevOps & More)
 
 5. ["MagicScaling Event Pipelines with Keda & Virtual Kubelet"](https://docs.google.com/presentation/d/e/2PACX-1vQ8pmEpbuFPKcfRGcRQ17VfF9W7W3H0Lq5kXq9Yy1NvctbkDz6yFv2O10DUg07ocOxhKzAqEz-4nGRg/pub?start=false&loop=false&delayms=3000&slide=id.g7787786d32_0_0) by _Vishal Biyani, InfraCloud Technologies_
