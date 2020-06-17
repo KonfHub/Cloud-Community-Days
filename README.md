@@ -57,11 +57,11 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 6. **"My experiences building CloudSkew (a browser-based, real-time diagram editor on the cloud)"** by _Mithun Shanbhag, Skewed Ventures_ (no slides) [CloudSkew website](https://www.cloudskew.com/) and [Architecture details](https://www.cloudskew.com/about/cloudskew-architecture.html)
 
-7. **"The World of Containers with - Podman, Buildah, Skopeo"** by _Seema Saharan, Mentor and Open Source Contributor_
+7. ["The World of Containers with - Podman, Buildah, Skopeo"](https://www.slideshare.net/CodeOps/the-world-of-containers-with-podman-buildah-skopeo-by-seema-ccdays) by _Seema Saharan, Mentor and Open Source Contributor_
 
 8. ["Together in COVID-19: Health of India"](https://www.slideshare.net/CodeOps/together-in-covid19-health-of-india-ccdays-talk-aditya) by _Aditya Raman, KonfHub_
 
-9. **"Containerize Microservices with Service Fabric"** by _Hamida Rebai, Revenu Quebec_
+9. **"Containerize Microservices with Service Fabric"** by _Hamida Rebai, Revenu Quebec_ 
 
 ### Day 2 (AI & ML)
 
