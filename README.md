@@ -55,7 +55,7 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 5. **"Raspberry Pi Air quality monitor and Azure IoT Central"** by _Dave Glover, Microsoft_
 
-6. **"My experiences building CloudSkew (a browser-based, real-time diagram editor on the cloud)"** by _Mithun Shanbhag, Skewed Ventures_
+6. **"My experiences building CloudSkew (a browser-based, real-time diagram editor on the cloud)"** by _Mithun Shanbhag, Skewed Ventures_ (no slides)[CloudSkew website](https://www.cloudskew.com/) and [Architecture details](https://www.cloudskew.com/about/cloudskew-architecture.html)
 
 7. **"The World of Containers with - Podman, Buildah, Skopeo"** by _Seema Saharan, Mentor and Open Source Contributor_
 
