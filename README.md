@@ -59,7 +59,7 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 7. **"The World of Containers with - Podman, Buildah, Skopeo"** by _Seema Saharan, Mentor and Open Source Contributor_
 
-8. **"Together in COVID-19: Health of India"** by _Aditya Raman, KonfHub_
+8. ["Together in COVID-19: Health of India"](https://www.slideshare.net/CodeOps/together-in-covid19-health-of-india-ccdays-talk-aditya) by _Aditya Raman, KonfHub_
 
 9. **"Containerize Microservices with Service Fabric"** by _Hamida Rebai, Revenu Quebec_
 
