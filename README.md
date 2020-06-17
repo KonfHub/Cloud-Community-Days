@@ -45,7 +45,7 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 ### Day 1 (Cloud Native)
 
-1. **"4K Streaming in Cloud with Kubernetes, Knative, Kafka, Kamel"** by _Kamesh Sampath, Red Hat_
+1. ["4K Streaming in Cloud with Kubernetes, Knative, Kafka, Kamel"](http://dn.dev/4k-kubernetes) by _Kamesh Sampath, Red Hat_
 
 2. **"Running Elasticsearch {Stack} on Kubernetes"** by _Aravind Putrevu, Elastic_
 
