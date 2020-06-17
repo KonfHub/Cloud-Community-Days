@@ -47,7 +47,7 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 1. ["4K Streaming in Cloud with Kubernetes, Knative, Kafka, Kamel"](http://dn.dev/4k-kubernetes) by _Kamesh Sampath, Red Hat_
 
-2. **"Running Elasticsearch {Stack} on Kubernetes"** by _Aravind Putrevu, Elastic_
+2. ["Running Elasticsearch {Stack} on Kubernetes"](https://aravind.dev/2020/06/elastic-stack-on-k8s/) by _Aravind Putrevu, Elastic_
 
 3. ["Tour of Dapr: a runtime for microservices development"](https://aka.ms/tour-of-dapr) by _Abhishek Gupta, Microsoft_
 
