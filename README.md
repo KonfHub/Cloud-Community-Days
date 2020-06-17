@@ -51,7 +51,7 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 3. **"Tour of Dapr: a runtime for microservices development"** by _Abhishek Gupta, Microsoft_
 
-4. **"Life is what YOU make it!"** by _Sandeep Kanabar, NortonLifeLock_
+4. ["Life is what YOU make it!"](https://www.slideshare.net/CodeOps/life-is-what-you-make-it-sandeep-kanabar-ccdays-presentation) by _Sandeep Kanabar, NortonLifeLock_
 
 5. **"Raspberry Pi Air quality monitor and Azure IoT Central"** by _Dave Glover, Microsoft_
 
