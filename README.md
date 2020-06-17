@@ -55,7 +55,7 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 5. **"Raspberry Pi Air quality monitor and Azure IoT Central"** by _Dave Glover, Microsoft_
 
-6. **"My experiences building CloudSkew (a browser-based, real-time diagram editor on the cloud)"** by _Mithun Shanbhag, Skewed Ventures_ (no slides)[CloudSkew website](https://www.cloudskew.com/) and [Architecture details](https://www.cloudskew.com/about/cloudskew-architecture.html)
+6. **"My experiences building CloudSkew (a browser-based, real-time diagram editor on the cloud)"** by _Mithun Shanbhag, Skewed Ventures_ (no slides) [CloudSkew website](https://www.cloudskew.com/) and [Architecture details](https://www.cloudskew.com/about/cloudskew-architecture.html)
 
 7. **"The World of Containers with - Podman, Buildah, Skopeo"** by _Seema Saharan, Mentor and Open Source Contributor_
 
@@ -67,6 +67,6 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 ### Day 3 (DevOps & More)
 
-5. [MagicScaling Event Pipelines with Keda & Virtual Kubelet](https://docs.google.com/presentation/d/e/2PACX-1vQ8pmEpbuFPKcfRGcRQ17VfF9W7W3H0Lq5kXq9Yy1NvctbkDz6yFv2O10DUg07ocOxhKzAqEz-4nGRg/pub?start=false&loop=false&delayms=3000&slide=id.g7787786d32_0_0) by _Vishal Biyani, InfraCloud Technologies_
+5. ["MagicScaling Event Pipelines with Keda & Virtual Kubelet"](https://docs.google.com/presentation/d/e/2PACX-1vQ8pmEpbuFPKcfRGcRQ17VfF9W7W3H0Lq5kXq9Yy1NvctbkDz6yFv2O10DUg07ocOxhKzAqEz-4nGRg/pub?start=false&loop=false&delayms=3000&slide=id.g7787786d32_0_0) by _Vishal Biyani, InfraCloud Technologies_
 
 🏷️ **Check out our official website for more details about [Cloud Community Days](https://ccdays.konfhub.com/)**
