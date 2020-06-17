@@ -49,7 +49,7 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 2. **"Running Elasticsearch {Stack} on Kubernetes"** by _Aravind Putrevu, Elastic_
 
-3. **"Tour of Dapr: a runtime for microservices development"** by _Abhishek Gupta, Microsoft_
+3. ["Tour of Dapr: a runtime for microservices development"](https://aka.ms/tour-of-dapr) by _Abhishek Gupta, Microsoft_
 
 4. ["Life is what YOU make it!"](https://www.slideshare.net/CodeOps/life-is-what-you-make-it-sandeep-kanabar-ccdays-presentation) by _Sandeep Kanabar, NortonLifeLock_
 
