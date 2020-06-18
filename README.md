@@ -80,7 +80,7 @@ Infinite-Sum Modeling_
 
 7. [How open source contribution helps in AI](https://www.slideshare.net/CodeOps/how-open-source-helps-in-ai-ccdays-chinmaye) by _Chinmaye Jain, Witsy limited_
 
-8. **AI/ML solutions to tackle COVID-19** by Vivek Raja, 15x Hackathon Winner
+8. [AI/ML solutions to tackle COVID-19](https://www.slideshare.net/CodeOps/aiml-solutions-to-tackle-covid19-vivek-raja-ccdays) by Vivek Raja, 15x Hackathon Winner
 
 9. [Understanding ML Through Memes](https://www.slideshare.net/CodeOps/understanding-ml-through-memes-harsh-ccdays) by _Harsh Aryan, Microsoft Student Partner_ 
 
