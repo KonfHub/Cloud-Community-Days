@@ -84,7 +84,7 @@ Infinite-Sum Modeling_
 
 9. [Understanding ML Through Memes](https://www.slideshare.net/CodeOps/understanding-ml-through-memes-harsh-ccdays) by _Harsh Aryan, Microsoft Student Partner_ 
 
-### Day 3 (DevOps & More)
+### Day 3 (Serverless, DevOps & More)
 
 1. **Accelerating deployment with Azure DevOps** by Leena N & Murughan Palaniachari, _Yoga Tree & EY_ 
 
