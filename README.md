@@ -72,6 +72,8 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 3. [Natural Language Processing using Azure](https://github.com/ushareng/CloudCommunityConference) by _Usha Rengaraju, 
 Infinite-Sum Modeling_
 
+4. [End-to-End Machine Learning Model Development Using Microsoft Azure](https://www.slideshare.net/CodeOps/build-machine-learning-models-using-microsoft-azure-arpita-ccdays) by _Arpita Gupta, Accenture_
+
 7. [How open source contribution helps in AI](https://www.slideshare.net/CodeOps/how-open-source-helps-in-ai-ccdays-chinmaye) by _Chinmaye Jain, Witsy limited_
 
 9. [Understanding ML Through Memes](https://www.slideshare.net/CodeOps/understanding-ml-through-memes-harsh-ccdays) by _Harsh Aryan, Microsoft Student Partner_
