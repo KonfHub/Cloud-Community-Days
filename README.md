@@ -74,7 +74,7 @@ Infinite-Sum Modeling_
 
 4. [End-to-End Machine Learning Model Development Using Microsoft Azure](https://www.slideshare.net/CodeOps/build-machine-learning-models-using-microsoft-azure-arpita-ccdays) by _Arpita Gupta, Accenture_
 
-5. **Build and deploy PyTorch models with Azure Machine Learning** by _Henk Boelman, Microsoft_
+5. [Build and deploy PyTorch models with Azure Machine Learning](https://www.slideshare.net/CodeOps/build-and-deploy-pytorch-models-with-azure-machine-learning-henk-ccdays) by _Henk Boelman, Microsoft_
 
 6. [Build a sentiment analysis Bot by Integrating A2019 (RPA platform) with Microsoft Azure cognitive services](https://www.slideshare.net/CodeOps/build-a-sentiment-analysis-bot-by-integrating-a2019-rpa-platform-with-microsoft-azure-cognitive-services-arjun-ccdays) by _Arjun S Meda, Automation Anywhere_
 
