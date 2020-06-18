@@ -86,6 +86,24 @@ Infinite-Sum Modeling_
 
 ### Day 3 (DevOps & More)
 
+1. **Accelerating deployment with Azure DevOps** by Leena N & Murughan Palaniachari, _Yoga Tree & EY_ 
+
+2. **Serverless DevOps** by _Aaron Powell, Microsoft_ 
+
+3. **Building, Deploying and Managing Microservices-based Applications with Azure pipeline and AKS** by _Mamta Jha, TechScalable_
+
+4. **Diving into the world of spell checks!** by _Niharika Krishnan, Tata Consultancy Services_
+
 5. [MagicScaling Event Pipelines with Keda & Virtual Kubelet](https://docs.google.com/presentation/d/e/2PACX-1vQ8pmEpbuFPKcfRGcRQ17VfF9W7W3H0Lq5kXq9Yy1NvctbkDz6yFv2O10DUg07ocOxhKzAqEz-4nGRg/pub?start=false&loop=false&delayms=3000&slide=id.g7787786d32_0_0) by _Vishal Biyani, InfraCloud Technologies_
+
+6. **Service Mesh and Why You Should Use It** by _Nancy Chauhan, Grofers_
+
+7. **Understanding Azure Batch Service** by _Niloshima Srivastava, Vichara Technologies_
+
+8. **Stepping into the world of Open Source** by _Anisha Swain, Red Hat_
+
+9. **Leading Edge of Modern Web Apps on Azure** by _Menaka Basker, Accenture Digital_
+
+10. **Intro to debugging Django and Building insights** by _Sayantika Banik, Continual Engine_
 
 🏷️ **Check out our official website for more details about [Cloud Community Days](https://ccdays.konfhub.com/)**
