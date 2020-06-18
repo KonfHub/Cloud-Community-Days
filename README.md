@@ -69,6 +69,7 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 7. ["How open source contribution helps in AI"](https://www.slideshare.net/CodeOps/how-open-source-helps-in-ai-ccdays-chinmaye) by _Chinmaye Jain, Witsy limited_
 
+9. [Understanding ML Through Memes](https://www.slideshare.net/CodeOps/understanding-ml-through-memes-harsh-ccdays) by _Harsh Aryan, Microsoft Student Partner_
 
 ### Day 3 (DevOps & More)
 
