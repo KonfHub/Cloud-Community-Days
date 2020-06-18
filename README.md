@@ -76,8 +76,7 @@ Infinite-Sum Modeling_
 
 5. **Build and deploy PyTorch models with Azure Machine Learning** by _Henk Boelman, Microsoft_
 
-6. [Build a sentiment analysis Bot by Integrating A2019 (RPA platform) with Microsoft Azure cognitive services]
-(https://www.slideshare.net/CodeOps/build-a-sentiment-analysis-bot-by-integrating-a2019-rpa-platform-with-microsoft-azure-cognitive-services-arjun-ccdays) by _Arjun S Meda, Automation Anywhere_
+6. [Build a sentiment analysis Bot by Integrating A2019 (RPA platform) with Microsoft Azure cognitive services](https://www.slideshare.net/CodeOps/build-a-sentiment-analysis-bot-by-integrating-a2019-rpa-platform-with-microsoft-azure-cognitive-services-arjun-ccdays) by _Arjun S Meda, Automation Anywhere_
 
 7. [How open source contribution helps in AI](https://www.slideshare.net/CodeOps/how-open-source-helps-in-ai-ccdays-chinmaye) by _Chinmaye Jain, Witsy limited_
 
