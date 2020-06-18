@@ -74,9 +74,16 @@ Infinite-Sum Modeling_
 
 4. [End-to-End Machine Learning Model Development Using Microsoft Azure](https://www.slideshare.net/CodeOps/build-machine-learning-models-using-microsoft-azure-arpita-ccdays) by _Arpita Gupta, Accenture_
 
+5. **Build and deploy PyTorch models with Azure Machine Learning** by _Henk Boelman, Microsoft_
+
+6. [Build a sentiment analysis Bot by Integrating A2019 (RPA platform) with Microsoft Azure cognitive services]
+(https://www.slideshare.net/CodeOps/build-a-sentiment-analysis-bot-by-integrating-a2019-rpa-platform-with-microsoft-azure-cognitive-services-arjun-ccdays) by _Arjun S Meda, Automation Anywhere_
+
 7. [How open source contribution helps in AI](https://www.slideshare.net/CodeOps/how-open-source-helps-in-ai-ccdays-chinmaye) by _Chinmaye Jain, Witsy limited_
 
-9. [Understanding ML Through Memes](https://www.slideshare.net/CodeOps/understanding-ml-through-memes-harsh-ccdays) by _Harsh Aryan, Microsoft Student Partner_
+8. **AI/ML solutions to tackle COVID-19** by Vivek Raja, 15x Hackathon Winner
+
+9. [Understanding ML Through Memes](https://www.slideshare.net/CodeOps/understanding-ml-through-memes-harsh-ccdays) by _Harsh Aryan, Microsoft Student Partner_ 
 
 ### Day 3 (DevOps & More)
 
