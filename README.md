@@ -67,6 +67,9 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 2. [Machine Learning with Azure Cognitive Services - Face Recognition and Deep Fake Detection](https://www.slideshare.net/CodeOps/machine-learning-with-azure-cognitive-services-face-recognition-and-deep-fake-detection-priyanka-ccdays) by _Priyanka Shah, Franklin Templeton_
 
+3. [Natural Language Processing using Azure](https://github.com/ushareng/CloudCommunityConference) by _Usha Rengaraju, 
+Infinite-Sum Modeling_
+
 7. [How open source contribution helps in AI](https://www.slideshare.net/CodeOps/how-open-source-helps-in-ai-ccdays-chinmaye) by _Chinmaye Jain, Witsy limited_
 
 9. [Understanding ML Through Memes](https://www.slideshare.net/CodeOps/understanding-ml-through-memes-harsh-ccdays) by _Harsh Aryan, Microsoft Student Partner_
