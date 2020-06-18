@@ -65,6 +65,8 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 ### Day 2 (AI & ML)
 
+1. [Identifying People Wearing Masks from Image using Cognitive Services](https://www.slideshare.net/CodeOps/identifying-people-wearing-masks-from-image-using-cognitive-services-ritesh-modi-ccdays) by _Ritesh Modi, Hon. Regional Director - Microsoft_
+
 2. [Machine Learning with Azure Cognitive Services - Face Recognition and Deep Fake Detection](https://www.slideshare.net/CodeOps/machine-learning-with-azure-cognitive-services-face-recognition-and-deep-fake-detection-priyanka-ccdays) by _Priyanka Shah, Franklin Templeton_
 
 3. [Natural Language Processing using Azure](https://github.com/ushareng/CloudCommunityConference) by _Usha Rengaraju, 
