@@ -45,34 +45,34 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 ### Day 1 (Cloud Native)
 
-1. ["4K Streaming in Cloud with Kubernetes, Knative, Kafka, Kamel"](http://dn.dev/4k-kubernetes) by _Kamesh Sampath, Red Hat_
+1. [4K Streaming in Cloud with Kubernetes, Knative, Kafka, Kamel](http://dn.dev/4k-kubernetes) by _Kamesh Sampath, Red Hat_
 
-2. ["Running Elasticsearch {Stack} on Kubernetes"](https://aravind.dev/2020/06/elastic-stack-on-k8s/) by _Aravind Putrevu, Elastic_
+2. [Running Elasticsearch {Stack} on Kubernetes](https://aravind.dev/2020/06/elastic-stack-on-k8s/) by _Aravind Putrevu, Elastic_
 
-3. ["Tour of Dapr: a runtime for microservices development"](https://aka.ms/tour-of-dapr) by _Abhishek Gupta, Microsoft_
+3. [Tour of Dapr: a runtime for microservices development](https://aka.ms/tour-of-dapr) by _Abhishek Gupta, Microsoft_
 
 4. ["Life is what YOU make it!"](https://www.slideshare.net/CodeOps/life-is-what-you-make-it-sandeep-kanabar-ccdays-presentation) by _Sandeep Kanabar, NortonLifeLock_
 
-5. ["Raspberry Pi Air quality monitor and Azure IoT Central"](https://github.com/gloveboxes/Raspberry-Pi-Python-Environment-Monitor-with-the-Pimoroni-Enviro-Air-Quality-PMS5003-Sensor) by _Dave Glover, Microsoft_ (also [video](https://onedrive.live.com/?authkey=%21APnc0f%5FJ3NYfe%2Dk&cid=BAF1CDAE0A412C89&id=BAF1CDAE0A412C89%2190293&parId=BAF1CDAE0A412C89%2155185&o=OneUp))
+5. [Raspberry Pi Air quality monitor and Azure IoT Central](https://github.com/gloveboxes/Raspberry-Pi-Python-Environment-Monitor-with-the-Pimoroni-Enviro-Air-Quality-PMS5003-Sensor) by _Dave Glover, Microsoft_ (also [video](https://onedrive.live.com/?authkey=%21APnc0f%5FJ3NYfe%2Dk&cid=BAF1CDAE0A412C89&id=BAF1CDAE0A412C89%2190293&parId=BAF1CDAE0A412C89%2155185&o=OneUp))
 
 6. **"My experiences building CloudSkew (a browser-based, real-time diagram editor on the cloud)"** by _Mithun Shanbhag, Skewed Ventures_ (no slides) [CloudSkew website](https://www.cloudskew.com/) and [Architecture details](https://www.cloudskew.com/about/cloudskew-architecture.html)
 
-7. ["The World of Containers with - Podman, Buildah, Skopeo"](https://www.slideshare.net/CodeOps/the-world-of-containers-with-podman-buildah-skopeo-by-seema-ccdays) by _Seema Saharan, Mentor and Open Source Contributor_
+7. [The World of Containers with - Podman, Buildah, Skopeo](https://www.slideshare.net/CodeOps/the-world-of-containers-with-podman-buildah-skopeo-by-seema-ccdays) by _Seema Saharan, Mentor and Open Source Contributor_
 
-8. ["Together in COVID-19: Health of India"](https://www.slideshare.net/CodeOps/together-in-covid19-health-of-india-ccdays-talk-aditya) by _Aditya Raman, KonfHub_
+8. [Together in COVID-19: Health of India](https://www.slideshare.net/CodeOps/together-in-covid19-health-of-india-ccdays-talk-aditya) by _Aditya Raman, KonfHub_
 
 9. **"Containerize Microservices with Service Fabric"** by _Hamida Rebai, Revenu Quebec_ 
 
 ### Day 2 (AI & ML)
 
-2. ["Machine Learning with Azure Cognitive Services - Face Recognition and Deep Fake Detection"](https://www.slideshare.net/CodeOps/machine-learning-with-azure-cognitive-services-face-recognition-and-deep-fake-detection-priyanka-ccdays) by _Priyanka Shah, Franklin Templeton_
+2. [Machine Learning with Azure Cognitive Services - Face Recognition and Deep Fake Detection](https://www.slideshare.net/CodeOps/machine-learning-with-azure-cognitive-services-face-recognition-and-deep-fake-detection-priyanka-ccdays) by _Priyanka Shah, Franklin Templeton_
 
-7. ["How open source contribution helps in AI"](https://www.slideshare.net/CodeOps/how-open-source-helps-in-ai-ccdays-chinmaye) by _Chinmaye Jain, Witsy limited_
+7. [How open source contribution helps in AI](https://www.slideshare.net/CodeOps/how-open-source-helps-in-ai-ccdays-chinmaye) by _Chinmaye Jain, Witsy limited_
 
 9. [Understanding ML Through Memes](https://www.slideshare.net/CodeOps/understanding-ml-through-memes-harsh-ccdays) by _Harsh Aryan, Microsoft Student Partner_
 
 ### Day 3 (DevOps & More)
 
-5. ["MagicScaling Event Pipelines with Keda & Virtual Kubelet"](https://docs.google.com/presentation/d/e/2PACX-1vQ8pmEpbuFPKcfRGcRQ17VfF9W7W3H0Lq5kXq9Yy1NvctbkDz6yFv2O10DUg07ocOxhKzAqEz-4nGRg/pub?start=false&loop=false&delayms=3000&slide=id.g7787786d32_0_0) by _Vishal Biyani, InfraCloud Technologies_
+5. [MagicScaling Event Pipelines with Keda & Virtual Kubelet](https://docs.google.com/presentation/d/e/2PACX-1vQ8pmEpbuFPKcfRGcRQ17VfF9W7W3H0Lq5kXq9Yy1NvctbkDz6yFv2O10DUg07ocOxhKzAqEz-4nGRg/pub?start=false&loop=false&delayms=3000&slide=id.g7787786d32_0_0) by _Vishal Biyani, InfraCloud Technologies_
 
 🏷️ **Check out our official website for more details about [Cloud Community Days](https://ccdays.konfhub.com/)**
