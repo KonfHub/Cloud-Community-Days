@@ -41,7 +41,7 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 - [Azure Serverless Computing Cookbook, Second Edition](https://azure.microsoft.com/en-us/resources/azure-serverless-computing-cookbook/?wt.mc_id=AID3011244_QSG_EML_428990)
 - [Knative Cookbook](https://dn.dev/knative-cookbook)
 
-## Speaker Slides
+### Speaker Slides
 
 ### Day 1 (Cloud Native)
 
