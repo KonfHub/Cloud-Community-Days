@@ -98,7 +98,7 @@ Infinite-Sum Modeling_
 
 6. **Service Mesh and Why You Should Use It** by _Nancy Chauhan, Grofers_
 
-7. **Understanding Azure Batch Service** by _Niloshima Srivastava, Vichara Technologies_
+7. [Understanding Azure Batch Service](https://www.slideshare.net/CodeOps/understanding-azure-batch-service-niloshima-ccdays) by _Niloshima Srivastava, Vichara Technologies_
 
 8. **Stepping into the world of Open Source** by _Anisha Swain, Red Hat_
 
