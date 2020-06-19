@@ -100,7 +100,7 @@ Infinite-Sum Modeling_
 
 7. [Understanding Azure Batch Service](https://www.slideshare.net/CodeOps/understanding-azure-batch-service-niloshima-ccdays) by _Niloshima Srivastava, Vichara Technologies_
 
-8. **Stepping into the world of Open Source** by _Anisha Swain, Red Hat_
+8. [Stepping into the world of Open Source](https://www.slideshare.net/CodeOps/stepping-into-the-world-of-open-source-anisha-ccdays) by _Anisha Swain, Red Hat_
 
 9. **Leading Edge of Modern Web Apps on Azure** by _Menaka Basker, Accenture Digital_
 
