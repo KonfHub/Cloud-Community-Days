@@ -92,7 +92,7 @@ Infinite-Sum Modeling_
 
 3. **Building, Deploying and Managing Microservices-based Applications with Azure pipeline and AKS** by _Mamta Jha, TechScalable_
 
-4. **Diving into the world of spell checks!** by _Niharika Krishnan, Tata Consultancy Services_
+4. [Diving into the world of spell checks!](https://www.slideshare.net/CodeOps/diving-into-the-world-of-spell-checks-niharika-ccdays) by _Niharika Krishnan, Tata Consultancy Services_
 
 5. [MagicScaling Event Pipelines with Keda & Virtual Kubelet](https://docs.google.com/presentation/d/e/2PACX-1vQ8pmEpbuFPKcfRGcRQ17VfF9W7W3H0Lq5kXq9Yy1NvctbkDz6yFv2O10DUg07ocOxhKzAqEz-4nGRg/pub?start=false&loop=false&delayms=3000&slide=id.g7787786d32_0_0) by _Vishal Biyani, InfraCloud Technologies_
 
