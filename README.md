@@ -90,7 +90,7 @@ Infinite-Sum Modeling_
 
 2. [Serverless DevOps](https://www.aaron-powell.com/talks/serverless-devops/) by _Aaron Powell, Microsoft_ 
 
-3. **Building, Deploying and Managing Microservices-based Applications with Azure pipeline and AKS** by _Mamta Jha, TechScalable_
+3. [Building, Deploying and Managing Microservices-based Applications with Azure pipeline and AKS](https://www.slideshare.net/CodeOps/building-deploying-and-managing-microservicesbased-applications-with-azure-pipeline-and-aks-mamta-ccdays) by _Mamta Jha, TechScalable_
 
 4. [Diving into the world of spell checks!](https://www.slideshare.net/CodeOps/diving-into-the-world-of-spell-checks-niharika-ccdays) by _Niharika Krishnan, Tata Consultancy Services_
 
