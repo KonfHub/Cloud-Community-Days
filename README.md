@@ -88,7 +88,7 @@ Infinite-Sum Modeling_
 
 1. [Accelerating deployment with Azure DevOps](https://www.slideshare.net/CodeOps/accelerating-deployment-with-azure-devops-murughan-and-leena-ccdays) by Leena N & Murughan Palaniachari, _Yoga Tree & EY_ 
 
-2. **Serverless DevOps** by _Aaron Powell, Microsoft_ 
+2. [Serverless DevOps](https://www.aaron-powell.com/talks/serverless-devops/) by _Aaron Powell, Microsoft_ 
 
 3. **Building, Deploying and Managing Microservices-based Applications with Azure pipeline and AKS** by _Mamta Jha, TechScalable_
 
