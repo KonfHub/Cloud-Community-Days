@@ -104,6 +104,6 @@ Infinite-Sum Modeling_
 
 9. **Leading Edge of Modern Web Apps on Azure** by _Menaka Basker, Accenture Digital_
 
-10. **Intro to debugging Django and Building insights** by _Sayantika Banik, Continual Engine_
+10. [Intro to debugging Django and Building insights](https://www.slideshare.net/CodeOps/intro-to-django-debugging-building-insights) by _Sayantika Banik, Continual Engine_
 
 🏷️ **Check out our official website for more details about [Cloud Community Days](https://ccdays.konfhub.com/)**
