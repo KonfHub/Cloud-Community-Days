@@ -102,7 +102,7 @@ Infinite-Sum Modeling_
 
 8. [Stepping into the world of Open Source](https://www.slideshare.net/CodeOps/stepping-into-the-world-of-open-source-anisha-ccdays) by _Anisha Swain, Red Hat_
 
-9. **Leading Edge of Modern Web Apps on Azure** by _Menaka Basker, Accenture Digital_
+9. [Leading Edge of Modern Web Apps on Azure](https://www.slideshare.net/CodeOps/leading-edge-of-modern-web-apps-on-azure-menaka-ccdays) by _Menaka Basker, Accenture Digital_
 
 10. [Intro to debugging Django and Building insights](https://www.slideshare.net/CodeOps/intro-to-django-debugging-building-insights) by _Sayantika Banik, Continual Engine_
 
