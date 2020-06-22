@@ -86,7 +86,7 @@ Infinite-Sum Modeling_
 
 ### Day 3 (Serverless, DevOps & More)
 
-1. **Accelerating deployment with Azure DevOps** by Leena N & Murughan Palaniachari, _Yoga Tree & EY_ 
+1. [Accelerating deployment with Azure DevOps](https://www.slideshare.net/CodeOps/accelerating-deployment-with-azure-devops-murughan-and-leena-ccdays) by Leena N & Murughan Palaniachari, _Yoga Tree & EY_ 
 
 2. **Serverless DevOps** by _Aaron Powell, Microsoft_ 
 
