@@ -96,7 +96,7 @@ Infinite-Sum Modeling_
 
 5. [MagicScaling Event Pipelines with Keda & Virtual Kubelet](https://docs.google.com/presentation/d/e/2PACX-1vQ8pmEpbuFPKcfRGcRQ17VfF9W7W3H0Lq5kXq9Yy1NvctbkDz6yFv2O10DUg07ocOxhKzAqEz-4nGRg/pub?start=false&loop=false&delayms=3000&slide=id.g7787786d32_0_0) by _Vishal Biyani, InfraCloud Technologies_
 
-6. **Service Mesh and Why You Should Use It** by _Nancy Chauhan, Grofers_
+6. [Service Mesh and Why You Should Use It](https://www.slideshare.net/CodeOps/service-mesh-and-why-should-you-use-it-nancy-ccdays) by _Nancy Chauhan, Grofers_
 
 7. [Understanding Azure Batch Service](https://www.slideshare.net/CodeOps/understanding-azure-batch-service-niloshima-ccdays) by _Niloshima Srivastava, Vichara Technologies_
 
