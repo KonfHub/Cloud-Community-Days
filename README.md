@@ -61,7 +61,7 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 8. [Together in COVID-19: Health of India](https://www.slideshare.net/CodeOps/together-in-covid19-health-of-india-ccdays-talk-aditya) by _Aditya Raman, KonfHub_
 
-9. [Containerize Microservices with Service Fabric](https://github.com/didourebai/CCDaysOnline) by _Hamida Rebai, Revenu Quebec_ 
+9. [Containerize Microservices with Service Fabric](https://www.slideshare.net/CodeOps/azure-service-fabric-hamida-rebai-ccdays) by _Hamida Rebai, Revenu Quebec_ 
 
 ### Day 2 (AI & ML)
 
