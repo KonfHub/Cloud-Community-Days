@@ -67,22 +67,20 @@ Download the 399-page serverless computing free e-book and get access to dozens 
 
 1. [Identifying People Wearing Masks from Image using Cognitive Services](https://www.slideshare.net/CodeOps/identifying-people-wearing-masks-from-image-using-cognitive-services-ritesh-modi-ccdays) by _Ritesh Modi, Hon. Regional Director - Microsoft_
 
-2. [Machine Learning with Azure Cognitive Services - Face Recognition and Deep Fake Detection](https://www.slideshare.net/CodeOps/machine-learning-with-azure-cognitive-services-face-recognition-and-deep-fake-detection-priyanka-ccdays) by _Priyanka Shah, Franklin Templeton_
-
-3. [Natural Language Processing using Azure](https://github.com/ushareng/CloudCommunityConference) by _Usha Rengaraju, 
+2. [Natural Language Processing using Azure](https://github.com/ushareng/CloudCommunityConference) by _Usha Rengaraju, 
 Infinite-Sum Modeling_
 
-4. [End-to-End Machine Learning Model Development Using Microsoft Azure](https://www.slideshare.net/CodeOps/build-machine-learning-models-using-microsoft-azure-arpita-ccdays) by _Arpita Gupta, Accenture_
+3. [End-to-End Machine Learning Model Development Using Microsoft Azure](https://www.slideshare.net/CodeOps/build-machine-learning-models-using-microsoft-azure-arpita-ccdays) by _Arpita Gupta, Accenture_
 
-5. [Build and deploy PyTorch models with Azure Machine Learning](https://www.slideshare.net/CodeOps/build-and-deploy-pytorch-models-with-azure-machine-learning-henk-ccdays) by _Henk Boelman, Microsoft_
+4. [Build and deploy PyTorch models with Azure Machine Learning](https://www.slideshare.net/CodeOps/build-and-deploy-pytorch-models-with-azure-machine-learning-henk-ccdays) by _Henk Boelman, Microsoft_
 
-6. [Build a sentiment analysis Bot by Integrating A2019 (RPA platform) with Microsoft Azure cognitive services](https://www.slideshare.net/CodeOps/build-a-sentiment-analysis-bot-by-integrating-a2019-rpa-platform-with-microsoft-azure-cognitive-services-arjun-ccdays) by _Arjun S Meda, Automation Anywhere_
+5. [Build a sentiment analysis Bot by Integrating A2019 (RPA platform) with Microsoft Azure cognitive services](https://www.slideshare.net/CodeOps/build-a-sentiment-analysis-bot-by-integrating-a2019-rpa-platform-with-microsoft-azure-cognitive-services-arjun-ccdays) by _Arjun S Meda, Automation Anywhere_
 
-7. [How open source contribution helps in AI](https://www.slideshare.net/CodeOps/how-open-source-helps-in-ai-ccdays-chinmaye) by _Chinmaye Jain, Witsy limited_
+6. [How open source contribution helps in AI](https://www.slideshare.net/CodeOps/how-open-source-helps-in-ai-ccdays-chinmaye) by _Chinmaye Jain, Witsy limited_
 
-8. [AI/ML solutions to tackle COVID-19](https://www.slideshare.net/CodeOps/aiml-solutions-to-tackle-covid19-vivek-raja-ccdays) by Vivek Raja, 15x Hackathon Winner
+7. [AI/ML solutions to tackle COVID-19](https://www.slideshare.net/CodeOps/aiml-solutions-to-tackle-covid19-vivek-raja-ccdays) by Vivek Raja, 15x Hackathon Winner
 
-9. [Understanding ML Through Memes](https://www.slideshare.net/CodeOps/understanding-ml-through-memes-harsh-ccdays) by _Harsh Aryan, Microsoft Student Partner_ 
+8. [Understanding ML Through Memes](https://www.slideshare.net/CodeOps/understanding-ml-through-memes-harsh-ccdays) by _Harsh Aryan, Microsoft Student Partner_ 
 
 ### Day 3 (Serverless, DevOps & More)
 
